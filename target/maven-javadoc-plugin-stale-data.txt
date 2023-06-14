@@ -1,0 +1,44 @@
+@options
+@packages
+--class-path
+'C:/Users/Administrateur/IdeaProjects/transformer/target/classes'
+-encoding
+'UTF-8'
+-protected
+-source
+'17'
+-sourcepath
+'C:/Users/Administrateur/IdeaProjects/transformer/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2023. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/Administrateur/IdeaProjects/transformer/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'transformer 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'transformer 1.0-SNAPSHOT API'
+org.cours
+C:\Users\Administrateur\IdeaProjects\transformer\src\main\java = 1686645466012
+C:\Users\Administrateur\IdeaProjects\transformer\target\site\apidocs\allclasses-index.html = 1686665751780
+C:\Users\Administrateur\IdeaProjects\transformer\target\site\apidocs\allpackages-index.html = 1686665751782
+C:\Users\Administrateur\IdeaProjects\transformer\target\site\apidocs\element-list = 1686665751744
+C:\Users\Administrateur\IdeaProjects\transformer\target\site\apidocs\help-doc.html = 1686665751800
+C:\Users\Administrateur\IdeaProjects\transformer\target\site\apidocs\index-all.html = 1686665751793
+C:\Users\Administrateur\IdeaProjects\transformer\target\site\apidocs\index.html = 1686665751795
+C:\Users\Administrateur\IdeaProjects\transformer\target\site\apidocs\jquery-ui.overrides.css = 1686665751811
+C:\Users\Administrateur\IdeaProjects\transformer\target\site\apidocs\member-search-index.js = 1686665751785
+C:\Users\Administrateur\IdeaProjects\transformer\target\site\apidocs\module-search-index.js = 1686665751783
+C:\Users\Administrateur\IdeaProjects\transformer\target\site\apidocs\overview-tree.html = 1686665751768
+C:\Users\Administrateur\IdeaProjects\transformer\target\site\apidocs\package-search-index.js = 1686665751784
+C:\Users\Administrateur\IdeaProjects\transformer\target\site\apidocs\script.js = 1686665751803
+C:\Users\Administrateur\IdeaProjects\transformer\target\site\apidocs\search.js = 1686665751805
+C:\Users\Administrateur\IdeaProjects\transformer\target\site\apidocs\stylesheet.css = 1686665751802
+C:\Users\Administrateur\IdeaProjects\transformer\target\site\apidocs\tag-search-index.js = 1686665751786
+C:\Users\Administrateur\IdeaProjects\transformer\target\site\apidocs\type-search-index.js = 1686665751785
